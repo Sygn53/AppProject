@@ -1,0 +1,95 @@
+{
+  "extras" : {
+    "header" : {
+      "headerImage" : "https://icons.iconarchive.com/icons/rockettheme/free-christmas/256/Bag-icon.png"
+    },
+    "tabBar" : {
+      "home" : "https://icons.iconarchive.com/icons/rockettheme/free-christmas/256/Ball-icon.png",
+      "menu" : "https://icons.iconarchive.com/icons/rockettheme/free-christmas/256/Cookies-icon.png",
+      "profile" : "https://icons.iconarchive.com/icons/rockettheme/free-christmas/256/Gingerman-icon.png",
+      "settings" : "https://icons.iconarchive.com/icons/lgp85/magic-christmas/256/Configuration-icon.png"
+    }
+  },
+  "menuScreens" : {
+    "menuImage" : "https://icons.iconarchive.com/icons/rockettheme/free-christmas/256/Cookies-icon.png",
+    "title" : "Menü ekranına hoşgeldiniz",
+    "desp" : "Yemek istediğiniz menüyü seçip görüntüleyebilirsiniz.",
+    "items" : [
+      {
+        "type" : "Burger King",
+        "imageUrl" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4gimTU7gnWOfu7ze3Tfhy8J_OGB6QlrHvEwE51wroNvp3v01nxUml6U1ssCRo-Cx5RCc&usqp=CAU"
+      },
+      {
+        "type" : "Dominos Pizza",
+        "imageUrl" : "https://www.karecopycenter.com/site/sized/101304/2021/02/ecfac82e9e772602167cced3c8afffb4-900x9000.jpg"
+      },
+      {
+        "type" : "KFC",
+        "imageUrl" : "https://images.deliveryhero.io/image/fd-tr/LH/dog7-hero.jpg?width=512&height=384&quality=45"
+      },
+      {
+        "type" : "HD İskender",
+        "imageUrl" : "https://www.tavukdunyasi.com/Files/Tavuk-kapak-gorsel.jpg"
+      }
+    ],
+    "flatListItems" : [
+      {
+        "imageUrl" : "https://www.soke.com.tr/Files/tarifler/HamburgerEkmegi3.jpg",
+        "text": "Hamburger"
+      },
+      {
+        "imageUrl" : "https://i4.hurimg.com/i/hurriyet/75/750x422/5f9c24c00f25442cb0cd76c1.jpg",
+        "text": "Pizza"
+      },
+      {
+        "imageUrl" : "https://i.lezzet.com.tr/images-xxlarge-secondary/evde-kebap-tarifleri-evde-kolayca-yapabileceginiz-12-nefis-kebap-tarifi-6a6e00e5-2f22-492c-9183-83e088684b10.jpg",
+        "text": "Kebap"
+      },
+      {
+        "imageUrl" : "https://cdn.yemek.com/mnresize/940/940/uploads/2019/03/etsiz-cig-kofte-yeni.jpg",
+        "text": "Çiğ Köfte"
+      },
+      {
+        "imageUrl" : "https://res.cloudinary.com/turna/image/upload/v1597836961/kokorec_1_zvdur2.jpg",
+        "text": "Sokak Lezzetleri"
+      },
+      {
+        "imageUrl" : "https://www.lezzetlisunumlar.com/wp-content/uploads/2022/01/Tavuk-Dunyasi-Sefin-Tavasi-Tarifi.png",
+        "text": "Tavuk Yemekleri"
+      }
+    ]
+  },
+  "users": [
+    {
+      "userName": "Sygn53",
+      "email": "oktaysaygin@gmail.com",
+      "password": "123456"
+    }
+  ],
+  "body" : {
+    "type" : "menu",
+    "name" : "Burger King",
+    "items" : [
+      {
+        "id": "Whopper Menu",
+        "text": ""
+      },
+      {
+        "id": "Rodeo Whopper Menu",
+        "text": ""
+      },
+      {
+        "id": "Double Whopper Menu",
+        "text": ""
+      },
+      {
+        "id": "Triple Whopper Menu",
+        "text": ""
+      },
+      {
+        "id": "Whopper JR Menu",
+        "text": ""
+      }
+    ]
+  }
+}
